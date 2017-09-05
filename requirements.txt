@@ -1,0 +1,2 @@
+persistentdatatools==2.2.7
+ipaddresstools==1.2.6
