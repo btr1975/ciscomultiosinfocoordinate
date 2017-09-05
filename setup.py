@@ -1,5 +1,4 @@
 from setuptools import setup
-from ciscomultiosinfocoordinate.ciscomultiosinfocoordinate import __version__
 
 packages = [
     'ciscomultiosinfocoordinate'
@@ -16,7 +15,7 @@ tests_require = [
 
 setup(
     name='ciscomultiosinfocoordinate',
-    version=__version__,
+    version='1.2.0',
     python_requires='~=3.5',
     description='This is a library used to normalize data between Cisco OS flavors',
     keywords='ipv4 ip multicast unicast network engineer cisco nxos ios iosxr',
