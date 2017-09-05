@@ -1,15 +1,25 @@
-# ciscomultiosinfocoordinate
+# Python Script: ciscomultiosinfocoordinate
 
 ## Written By: Benjamin P. Trachtenberg 
 
 ### Contact Information:  e_ben_75-python@yahoo.com
 
 ### LinkedIn: [Ben Trachtenberg](https://www.linkedin.com/in/ben-trachtenberg-3a78496)
+### Docker Hub: [Docker Hub](https://hub.docker.com/r/btr1975)
+### PyPi Page for [ciscomultiosinfocoordinate](https://pypi.python.org/pypi/ciscomultiosinfocoordinate)
 
 ### Requirements
 
-* [ipaddresstools](https://github.com/btr1975/ipaddresstools)
-* [persistentdatatools](https://github.com/btr1975/persistentdatatools)
+* Nothing Specific, I would suggest Python 3.5.2 and above.
+
+### Installation
+
+* From source "setup.py install"
+* From pip "pip install ciscomultiosinfocoordinate"
+
+### Languages
+
+* Python
 
 ### About
 
